@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying and also done projecr [rahulstudyfork](https://www.rahulstudyfork.com)
+- 🔭 I’m currently studying and also done project [rahulstudyfork](https://www.rahulstudyfork.com)
 
 - 🌱 I’m currently learning **ajax, advance php**
 
